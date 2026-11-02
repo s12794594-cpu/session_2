@@ -21,7 +21,7 @@ void main() {
         ),
       ],
       child:MaterialApp(
-
+// categor
         home: Categoryscreen (),
       ),
     ),
